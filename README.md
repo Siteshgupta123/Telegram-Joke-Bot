@@ -1,6 +1,9 @@
-# Telegram Joke Bot 🤖🎭
+# Binary Joke Bot 🤖🎭
 
 A Telegram bot that delivers **hilarious, AI-generated jokes** on any topic you mention! Powered by **LangChain**, **Groq AI**, and **Python Telegram Bot**, this bot is sure to tickle your funny bone. 
+
+# View:
+![Picsart_25-05-17_23-52-53-392](https://github.com/user-attachments/assets/fa7a1537-98ca-47bb-83d6-4a6c65100993)
 
 ## 🚀 Features:
 - 🤖 AI-generated jokes on user-defined topics.
