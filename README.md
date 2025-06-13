@@ -54,3 +54,15 @@ Once the bot is running, mention it in a chat with a topic to receive a joke!
 Want to improve the bot? Fork this repo and submit a pull request!
 ## 🛠️ License:
 This project is MIT licensed. Feel free to use and modify it.
+
+------------------------------------------
+## Thank You! 💙
+
+Thanks for checking out my project! If you found it useful, please consider:  
+[![GitHub stars](https://github.com/Siteshgupta123/elegram-Joke-Bot/)](https://github.com/Siteshgupta123)  
+⭐ **Starring** the repo  
+🐛 **Reporting** issues  
+🛠 **Contributing** improvements  
+
+Coded with ❤️ by **Sitesh Gupta**  
+🔗 www.linkedin.com/in/guptasitesh | 💌 Email-guptasitesh05@email.com
